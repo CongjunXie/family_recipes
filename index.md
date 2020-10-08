@@ -2,6 +2,7 @@
 
 Set of receipes as given by my grandma.
 
--pizzas(TODO)
--sauces(TODO)
--spreads(TODO)
+- pizzas
+  - [base](./pizzas/bas.md)
+- sauces(TODO)
+- spreads(TODO)
